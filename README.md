@@ -1,9 +1,5 @@
-## Looney Toons
-### Acme corp.
+GitHub
 
-Written by:
-Cristianco9
+Sistemas de control de vercionestratamos de resolber eun conflicto
 
-## papajons
-
-hola mundo
+validamos que si funcione
