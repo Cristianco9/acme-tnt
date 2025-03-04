@@ -1,3 +1,5 @@
-## papajons
+GitHub
 
-hola mundo
+Sistemas de control de vercionestratamos de resolber eun conflicto
+
+validamos que si funcione
